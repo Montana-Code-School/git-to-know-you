@@ -1,4 +1,13 @@
 What is your name?
+<<<<<<< HEAD
+Jamie
+
+What are your hobbies?
+Travel, music festivals, DJing, working out, interior design, piano, martial arts. 
+
+Are you going to the Homecoming parade or game?
+Probably.
+=======
 Kristin: 
 What are your hobbies?
 Joel: Hiking, biking, cribbage, coding, reading, scuba diving, golf, squash, folf
