@@ -1,3 +1,13 @@
+
+
+What is your name?
+  Jeremy: Jeremy  Cornell
+Where did you grow up?
+  Jeremy: Helena, MT
+What are the names of your pets?
+  Jeremy: Dexter
+
+
 What is your favorite color?
 Blue
 
@@ -5,4 +15,8 @@ What was the name of your favorite childhood pet?
 Is this a fishing attempt to get security question answers? : )
 
 What is your favorite bar in Missoula?
+<<<<<<< HEAD
 Plonk
+=======
+Joel: Feruqi's all the way
+>>>>>>> d7ece96a8941c0bbf9ceb208bc0e00db0446a05d
