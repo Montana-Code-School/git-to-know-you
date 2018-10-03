@@ -1,6 +1,15 @@
-What is your name?
+1. What is your name?
 
-Where did you grow up?
+2. What's the worst nickname anyone has ever given you?
 
-What are the names of your pets?
+3. Are you a dog person or a cat person?
 
+4. Are you a morning person?
+
+5. Do you like to have other people believe that you're a morning person?
+
+6. Have you ever been to EDC?
+
+7. If your answer to the previous question was "yes," can you share whether you think VIP access is/would be worth it?
+
+8. Say you're standing on the surface of the earth; you walk 1 mile south, 1 mile west, and 1 mile north; and end up in the same place you started. Where are you?
