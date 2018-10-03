@@ -1,8 +1,17 @@
 What is your name?
-
+Kristin: 
 What are your hobbies?
 Joel: Hiking, biking, cribbage, coding, reading, scuba diving, golf, squash, folf
+<<<<<<< HEAD
 Blaine: Doin nothin
 Are you going to the Homecoming parade or game?
 Joel: I am going to neither :(
 Blaine: Im the Homecoming queen.
+=======
+Kristin: skiing, reading, napping, coding, wine drinking, baseball watching
+Are you going to the Homecoming parade or game?
+Joel: I am going to neither :(
+Kristin: nope.  I work.
+
+
+>>>>>>> 4e17f3dfee8abacd4f94c3b5adea9e1a6815f487
