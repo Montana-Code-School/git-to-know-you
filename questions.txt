@@ -2,8 +2,7 @@ What is your name?
 
 What are your hobbies?
 Joel: Hiking, biking, cribbage, coding, reading, scuba diving, golf, squash, folf
-
+Blaine: Doin nothin
 Are you going to the Homecoming parade or game?
 Joel: I am going to neither :(
-
-
+Blaine: Im the Homecoming queen.
