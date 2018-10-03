@@ -1,6 +1,8 @@
 What is your name?
+Joel: Joel
 
 Where did you grow up?
+Joel: Helena
 
 What are the names of your pets?
-
+Joel: None
