@@ -1,4 +1,5 @@
 What is your name?
+<<<<<<< HEAD
 Jamie
 
 Where did you grow up?
@@ -6,3 +7,13 @@ SoCal
 
 What are the names of your pets?
 Yuki  and Barkley
+=======
+Joel: Joel
+Zack: Zack
+Where did you grow up?
+Joel: Helena
+Zack: Mostly VA
+What are the names of your pets?
+Joel: None
+Zack: I dont have any pets :(
+>>>>>>> a34151943ad02fd6918e024f8a70dbd3b762d5a2
