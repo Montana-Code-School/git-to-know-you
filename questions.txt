@@ -9,14 +9,28 @@ What are the names of your pets?
 
 
 What is your favorite color?
+<<<<<<< HEAD
 Blue
 
 What was the name of your favorite childhood pet?
 Is this a fishing attempt to get security question answers? : )
 
+=======
+Joel: Blue
+Blaine: white is every color?
+What was the name of your favorite childhood pet?
+Joel: Pudge
+Blaine: Thor
+>>>>>>> c5d52cfedaf345aa7a2bb2bec9abd55c59acdda3
 What is your favorite bar in Missoula?
 <<<<<<< HEAD
 Plonk
 =======
 Joel: Feruqi's all the way
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+Blaine: my house
+=======
+>>>>>>> c5d52cfedaf345aa7a2bb2bec9abd55c59acdda3
 >>>>>>> d7ece96a8941c0bbf9ceb208bc0e00db0446a05d
