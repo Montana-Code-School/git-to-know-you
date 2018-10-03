@@ -1,9 +1,9 @@
 What is your name?
-
+Zack: Zack
 What are your hobbies?
 Joel: Hiking, biking, cribbage, coding, reading, scuba diving, golf, squash, folf
-
+Zack: Snowboarding, playing music, hiking, biking(all sorts), folf, climbing
 Are you going to the Homecoming parade or game?
 Joel: I am going to neither :(
-
+Zack: Maybe the parade, but not sure yet.
 
