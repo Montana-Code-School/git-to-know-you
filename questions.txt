@@ -1,6 +1,7 @@
-What is your name?
+What is your favorite thing to drink?
 
-Where did you grow up?
+What is your favorite band?
 
-What are the names of your pets?
+What is your least favorite thing to do on a Saturday afternoon?
+
 
