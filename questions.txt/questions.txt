@@ -1,0 +1,3 @@
+"What color is the sky?"
+"Why are you here?" 
+"Where am I?"
