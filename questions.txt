@@ -1,6 +1,5 @@
-What is your name?
+What is your favorite color?
 
-Where did you grow up?
+What was the name of your favorite childhood pet?
 
-What are the names of your pets?
-
+What is your favorite bar in Missoula?
