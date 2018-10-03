@@ -1,3 +1,13 @@
+
+
+What is your name?
+  Jeremy: Jeremy  Cornell
+Where did you grow up?
+  Jeremy: Helena, MT
+What are the names of your pets?
+  Jeremy: Dexter
+
+
 What is your favorite color?
 Joel: Blue
 Blaine: white is every color?
@@ -6,4 +16,7 @@ Joel: Pudge
 Blaine: Thor
 What is your favorite bar in Missoula?
 Joel: Feruqi's all the way
+<<<<<<< HEAD
 Blaine: my house
+=======
+>>>>>>> d7ece96a8941c0bbf9ceb208bc0e00db0446a05d
