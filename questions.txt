@@ -1,8 +1,9 @@
 What is your name?
 Joel: Joel
-
+Zack: Zack
 Where did you grow up?
 Joel: Helena
-
+Zack: Mostly VA
 What are the names of your pets?
 Joel: None
+Zack: I dont have any pets :(
