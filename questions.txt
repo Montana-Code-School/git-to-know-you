@@ -1,10 +1,12 @@
 What is your name?
 Kristin: 
+Sharon:
 What are your hobbies?
+Sharon: hiking, biking, swimming, birding, coding, parenting
 Joel: Hiking, biking, cribbage, coding, reading, scuba diving, golf, squash, folf
 Kristin: skiing, reading, napping, coding, wine drinking, baseball watching
 Are you going to the Homecoming parade or game?
 Joel: I am going to neither :(
 Kristin: nope.  I work.
-
+Sharon: only the parade
 
