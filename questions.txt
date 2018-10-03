@@ -1,6 +1,5 @@
-What is your name?
+What's your favorite kind of music?
 
-Where did you grow up?
+What animal do you relate to most?
 
-What are the names of your pets?
-
+What was the first band you saw live?
