@@ -29,28 +29,35 @@ Jeremy: Dexter
 What is your favorite food?
 Dalkgalbi
 Jeremy: Cheeseburgers
+Sydney: Sourdough waffles
 
 What year were you born?
 Zack: 1988
 Jeremy: 1977
+Sydney: 88
 
 How many siblings do you have?
 Zack: 1
 Jeremy: 1 brother, 1 sister
+Sydney: 2
 
 Where did you go to school?
 Zack: HS in VA but no college...it's a fun story, ask me about it sometime
 Jeremy: U of MT
+Sydney: Pacific U
 
 What countries have you visited?
 Zack:  Canada...does that count?
 Jeremy: Canada & Mexico
+Sydney: Japan and an airport in Korea(but that probably doesn't count)
 
 Have you ever met anyone famous?
 Zack: Shaun White, Lindsey Von tuned skis for some bigger names. I saw Lance Armstrong at the Red Bird a few weeks ago!
 Jeremy: Donovan McNabb, Willis Reed
+Sydney: Nope
 
 Would you rather be smart and ugly or beautiful and stupid?
 Zack:  Smart and ugly for sure!
 Jeremy: Smart & Ugly
+Sydney: Probably smart and ugly, but I need to ruminate on it.
 >>>>>>> 17a224c53e12ec233f045e36e00b8384bf7965bc
