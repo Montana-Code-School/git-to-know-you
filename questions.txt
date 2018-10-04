@@ -1,6 +1,6 @@
 What is your name?
-
+Blaine
 Where did you grow up?
-
+Blaine: earth.
 What are the names of your pets?
-
+Blaine: Bacon and Eggs
