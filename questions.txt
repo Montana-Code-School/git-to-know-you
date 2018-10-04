@@ -1,4 +1,5 @@
 What is your name?
+<<<<<<< HEAD
 Jamie
 
 Where did you grow up?
@@ -6,3 +7,13 @@ SoCal
 
 What are the names of your pets?
 Yuki and Barkley
+=======
+Blaine
+Sydney
+Where did you grow up?
+Blaine: earth.
+Sydney: Forest Grove, OR
+What are the names of your pets?
+Blaine: Bacon and Eggs
+Sydney: No pets right now :(
+>>>>>>> df2b733292fb4b1359bef90c898b5fadcc2f41f9
