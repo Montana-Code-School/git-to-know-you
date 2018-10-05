@@ -1,6 +1,17 @@
 What is your name?
-SF: Sharon
+Jamie
+Sharon
+Blaine
+Sydney
+
 Where did you grow up?
-SF: Minnesota
+SoCal
+Sharon: Minnesota
+Blaine: earth.
+Sydney: Forest Grove, OR
+
 What are the names of your pets?
-SF: Baxter, Edge, Smudge
+Yuki and Barkley
+Sharon: Baxter, Edge, Smudge
+Blaine: Bacon and Eggs
+Sydney: No pets right now :(
