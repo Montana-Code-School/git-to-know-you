@@ -1,5 +1,6 @@
 What is your name?
 <<<<<<< HEAD
+<<<<<<< HEAD
 Joel
 Where did you grow up?
 Helena, MT
@@ -24,21 +25,26 @@ Would you rather be smart and ugly or beautiful and stupid?
 
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> 746a4526469a26ebe1371aa93b956e80191cf20b
 Jamie
+Sharon
+Blaine
+Sydney
 
 Where did you grow up?
 SoCal
+Sharon: Minnesota
+Blaine: earth.
+Sydney: Forest Grove, OR
 
 What are the names of your pets?
 Yuki and Barkley
-=======
-Blaine
-Sydney
-Where did you grow up?
-Blaine: earth.
-Sydney: Forest Grove, OR
-What are the names of your pets?
+Sharon: Baxter, Edge, Smudge
 Blaine: Bacon and Eggs
 Sydney: No pets right now :(
+<<<<<<< HEAD
 >>>>>>> df2b733292fb4b1359bef90c898b5fadcc2f41f9
 >>>>>>> 1d16958cfaddbb2e25bb9064e9b0e0025e19aa68
+=======
+>>>>>>> 746a4526469a26ebe1371aa93b956e80191cf20b
