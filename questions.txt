@@ -1,6 +1,44 @@
 What is your name?
-Cassidy
+Joel
 Where did you grow up?
-Missoula 
-What are the names of your pets?
+Helena, MT
 
+What are the names of your pets?
+No pets unfortunately :(
+
+What is your favorite food?
+Dalkgalbi
+
+What year were you born?
+
+How many siblings do you have?
+
+Where did you go to school?
+
+What countries have you visited?
+
+Have you ever met anyone famous?
+
+Would you rather be smart and ugly or beautiful and stupid?
+
+>>>>>>> 746a4526469a26ebe1371aa93b956e80191cf20b
+Jamie
+Sharon
+Blaine
+Sydney
+
+Where did you grow up?
+SoCal
+Sharon: Minnesota
+Blaine: earth.
+Sydney: Forest Grove, OR
+
+What are the names of your pets?
+Yuki and Barkley
+Sharon: Baxter, Edge, Smudge
+Blaine: Bacon and Eggs
+Sydney: No pets right now :(
+>>>>>>> df2b733292fb4b1359bef90c898b5fadcc2f41f9
+>>>>>>> 1d16958cfaddbb2e25bb9064e9b0e0025e19aa68
+=======
+>>>>>>> 746a4526469a26ebe1371aa93b956e80191cf20b
