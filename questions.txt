@@ -1,32 +1,23 @@
 
 What is your name?D
+Jamie
 Zack: Zack
+Sharon: Sharon
+
 
 What are your hobbies?
 Joel: Hiking, biking, cribbage, coding, reading, scuba diving, golf, squash, folf
 Zack: Snowboarding, playing music, hiking, biking(all sorts), folf, climbing
+Sharon: hiking, biking, swimming, birding, coding, parenting
+Joel: Hiking, biking, cribbage, coding, reading, scuba diving, golf, squash, folf
+Kristin: skiing, reading, napping, coding, wine drinking, baseball watching
+Travel, music festivals, DJing, working out, interior design, piano, martial arts.
 
 Are you going to the Homecoming parade or game?
 Joel: I am going to neither :(
 Zack: Maybe the parade, but not sure yet.
-
-What is your name?
-Jamie
-
-What are your hobbies?
-Travel, music festivals, DJing, working out, interior design, piano, martial arts.
-
-Are you going to the Homecoming parade or game?
-Probably.
-
-Kristin:
-Sharon:
-What are your hobbies?
-Sharon: hiking, biking, swimming, birding, coding, parenting
-Joel: Hiking, biking, cribbage, coding, reading, scuba diving, golf, squash, folf
-Kristin: skiing, reading, napping, coding, wine drinking, baseball watching
-
-Are you going to the Homecoming parade or game?
 Joel: I am going to neither :(
 Kristin: nope.  I work.
 Sharon: only the parade
+Probably.
+Kristin:
